@@ -11,14 +11,12 @@ About
 I am a Ph.D. student in the Department of Computer Science at Florida State University, where I work as a Research Assistant in the MakeX Lab. My research focuses on human-computer interaction, wearable technology, and ubiquitous computing. I hold a bachelor's degree in Electronic Systems Engineering from a joint program between Northwest University and the University of Essex.
 
 
-Getting started
+Education Experience
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+2020-2024 Northwest University and University of Essex, Electronic System Engineering
+2025-Present Florida State University, Computer Science
+
+
 
 Site-wide configuration
 ------
