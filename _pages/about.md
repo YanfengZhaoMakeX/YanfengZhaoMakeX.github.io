@@ -8,8 +8,7 @@ redirect_from:
 ---
 About
 ======
-I am a Ph.D. student in the Department of Computer Science at Florida State University. I am a Research Assitant at MakeX lab and work on human-computer interation, wearable technology and ubiquitous computing. I obtained my bachelor degree from Northwest University and University of Essex joint program in Electronic System Engineering.
-
+I am a Ph.D. student in the Department of Computer Science at Florida State University, where I work as a Research Assistant in the MakeX Lab. My research focuses on human-computer interaction, wearable technology, and ubiquitous computing. I hold a bachelor's degree in Electronic Systems Engineering from a joint program between Northwest University and the University of Essex.
 A data-driven personal website
 ======
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
