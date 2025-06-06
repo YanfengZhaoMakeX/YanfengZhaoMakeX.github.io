@@ -25,7 +25,3 @@ News
 
 **May.2025**: Start my journey as a Research Assitant at Florida State University
 
-
-Publications:
-------
-
