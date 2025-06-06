@@ -13,7 +13,7 @@ I am a Ph.D. student in the Department of Computer Science at Florida State Univ
 
 Education Experience
 ======
-2020-2024 Northwest University and University of Essex, Electronic System Engineering
+2020-2024 Northwest University and University of Essex, Electronic System Engineering\
 2025-Present Florida State University, Computer Science
 
 
