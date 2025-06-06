@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to My Personal Webpage!"
+title: "Vancci"
 author_profile: true
 redirect_from: 
   - /about/
