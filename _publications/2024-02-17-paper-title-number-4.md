@@ -3,7 +3,7 @@ title: "Motion-Sequence Authentication System: Guard for Smart Phones"
 collection: publications
 category: conferences
 permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This paper is about fixing template issue #693.'
+excerpt: 'This work finished during research volunteer at Prof.Xiaojiang Chen's group'
 date: 2021.10
 venue: 'GitHub Journal of Bugs'
 paperurl: 'http://academicpages.github.io/files/paper3.pdf'
