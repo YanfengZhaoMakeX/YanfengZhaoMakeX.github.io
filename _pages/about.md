@@ -8,7 +8,7 @@ redirect_from:
 ---
 About
 ======
-I am a Ph.D. student in the Department of Computer Science at Florida State University, where I work as a Research Assistant in the MakeX Lab. My research focuses on human-computer interaction, wearable technology, and ubiquitous computing. I hold a bachelor's degree in Electronic Systems Engineering from a joint program between Northwest University and the University of Essex.
+I am a Ph.D. student in the Department of Computer Science at Florida State University, where I work as a Research Assistant in the MakeX Lab. My research focuses on human-computer interaction, wearable technology, and ubiquitous computing. I obtained a bachelor's degree in Electronic Systems Engineering from a joint program between Northwest University and the University of Essex.
 
 
 Education Experience
