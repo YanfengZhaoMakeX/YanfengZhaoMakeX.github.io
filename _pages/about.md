@@ -1,12 +1,13 @@
 ---
 permalink: /
-title: "About"
+title: "Welcome to My Personal Webpage!"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
+About
+======
 I am a Ph.D. student in the Department of Computer Science at Florida State University. I am a Research Assitant at MakeX lab and work on human-computer interation, wearable technology and ubiquitous computing. I obtained my bachelor degree from Northwest University and University of Essex joint program in Electronic System Engineering.
 
 A data-driven personal website
