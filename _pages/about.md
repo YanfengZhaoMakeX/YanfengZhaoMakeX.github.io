@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Vancci"
+title: "MakeX Lab"
 author_profile: true
 redirect_from: 
   - /about/
